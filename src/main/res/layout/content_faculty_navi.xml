@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/content_faculty"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".FacultyNavi_Activity"
+    tools:showIn="@layout/app_bar_faculty_navi">
+
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:text="@string/project_title_1"
+                android:textSize="28sp"
+                android:padding="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s1"
+                android:padding="2dp"
+                android:textSize="20sp"
+                android:text="@string/status"
+                android:linksClickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="@string/project_title_2"
+                android:textSize="28sp"
+                android:padding="5dp"
+                android:linksClickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s2"
+                android:padding="2dp"
+                android:textSize="20sp"
+                android:clickable="true"
+                android:text="@string/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true" />
+
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="Project Title 3"
+                android:textSize="28sp"
+                android:padding="5dp"
+                android:linksClickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s3"
+                android:padding="2dp"
+                android:textSize="20sp"
+                android:clickable="true"
+                android:text="@string/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true" />
+
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:text="Project Title 4"
+                android:textSize="28sp"
+                android:padding="5dp"
+                android:linksClickable="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:id="@+id/s4"
+                android:padding="2dp"
+                android:textSize="20sp"
+                android:clickable="true"
+                android:text="@string/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true" />
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

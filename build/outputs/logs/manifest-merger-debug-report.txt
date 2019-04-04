@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
+ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b47e33d23c2200224eb6f3a2b254a5b/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-11.8.0.aar/bdd0f914c0d3975b1b337c8c3899250d/AndroidManifest.xml:2:1-8:12
 MERGED from [com.android.support:design:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f83601156cc37d5111ce3ffea851e991/AndroidManifest.xml:17:1-31:12
@@ -21,6 +21,7 @@ MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/akashg
 MERGED from [com.android.support:transition:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/703f082ae6a8344eb7cfd3719afec95e/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e37c9e1ed0d04d1b26d1011802b7cae1/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:cardview-v7:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/41841bb0e8acf07ca5258bbe2cfd26f0/AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/0dd16ca8d4d9f2c68fa06913abb68f9c/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/ce8b79cd827cf19d0fb41ef615f6ec1a/AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/219a1f3576b18c798720d817bc28c1ae/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/79a8fe5d26382c4d908f4d0121221cf0/AndroidManifest.xml:17:1-28:12
@@ -40,20 +41,20 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/ak
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/d6af7067f20bc3e8563d8b253058ceb1/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/858ac0e9fa5c58ad9811b1c1d1a35006/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/635c747f52abbd74801ce8ba03dcceef/AndroidManifest.xml:2:1-6:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
-INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
+INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:3:5-40
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
-		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-45:12
+		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:1-49:12
 		INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:2:11-69
@@ -68,7 +69,7 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/akashgupta/.gradle/
 	android:name
 		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:7:5-43:19
+ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:7:5-47:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b47e33d23c2200224eb6f3a2b254a5b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b47e33d23c2200224eb6f3a2b254a5b/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f83601156cc37d5111ce3ffea851e991/AndroidManifest.xml:25:5-29:19
@@ -99,6 +100,8 @@ MERGED from [com.android.support:support-v4:26.1.0] /Users/akashgupta/.gradle/ca
 MERGED from [com.android.support:support-v4:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e37c9e1ed0d04d1b26d1011802b7cae1/AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:cardview-v7:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/41841bb0e8acf07ca5258bbe2cfd26f0/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:cardview-v7:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/41841bb0e8acf07ca5258bbe2cfd26f0/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/0dd16ca8d4d9f2c68fa06913abb68f9c/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/0dd16ca8d4d9f2c68fa06913abb68f9c/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/ce8b79cd827cf19d0fb41ef615f6ec1a/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/ce8b79cd827cf19d0fb41ef615f6ec1a/AndroidManifest.xml:5:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/219a1f3576b18c798720d817bc28c1ae/AndroidManifest.xml:22:5-26:19
@@ -230,9 +233,17 @@ ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xm
 	android:name
 		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:41:19-47
 activity#aakashgupt98.navifragment.FacultyRegisterActivity
-ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:42:9-70
+ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:42:9-61
 	android:name
 		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:42:19-58
+activity#aakashgupt98.navifragment.FacultyNavi_Activity
+ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:43:9-46:68
+	android:label
+		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:45:13-65
+	android:theme
+		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml:44:13-49
 uses-sdk
 INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/akashgupta/Downloads/Project 2/app/src/main/AndroidManifest.xml
@@ -271,6 +282,8 @@ MERGED from [com.android.support:support-v4:26.1.0] /Users/akashgupta/.gradle/ca
 MERGED from [com.android.support:support-v4:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/e37c9e1ed0d04d1b26d1011802b7cae1/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:cardview-v7:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/41841bb0e8acf07ca5258bbe2cfd26f0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:cardview-v7:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/41841bb0e8acf07ca5258bbe2cfd26f0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/0dd16ca8d4d9f2c68fa06913abb68f9c/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/0dd16ca8d4d9f2c68fa06913abb68f9c/AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/ce8b79cd827cf19d0fb41ef615f6ec1a/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.8.0.aar/ce8b79cd827cf19d0fb41ef615f6ec1a/AndroidManifest.xml:4:5-43
 MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/akashgupta/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/219a1f3576b18c798720d817bc28c1ae/AndroidManifest.xml:20:5-44

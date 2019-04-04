@@ -110,7 +110,7 @@ public class login extends AppCompatActivity implements View.OnClickListener {
                             progressDialog.dismiss();
                             if (task.isSuccessful()) {
                                 finish();
-                                startActivity(new Intent(getApplicationContext(), InfofacultyActivity.class));
+                                startActivity(new Intent(getApplicationContext(), FacultyNavi_Activity.class));
                             } else {
                                 Toast.makeText(login.this, "login Failed please try again", Toast.LENGTH_SHORT).show();
                             }

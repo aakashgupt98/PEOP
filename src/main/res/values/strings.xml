@@ -44,6 +44,12 @@
         <item>VII</item>
         <item>VII</item>
     </string-array>
-
+    <string name="title_activity_faculty_navi_">FacultyNavi_Activity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="status"><u>Click here to check status of this project</u></string>
+    <string name="project_title_2">Project Title 2</string>
+    <string name="project_title_1">Project Title 1</string>
 
 </resources>

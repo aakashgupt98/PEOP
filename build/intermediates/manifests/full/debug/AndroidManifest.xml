@@ -57,6 +57,10 @@
         <activity android:name="aakashgupt98.navifragment.AddToDatabase" />
         <activity android:name="aakashgupt98.navifragment.Project_list" />
         <activity android:name="aakashgupt98.navifragment.FacultyRegisterActivity" />
+        <activity
+            android:name="aakashgupt98.navifragment.FacultyNavi_Activity"
+            android:label="@string/title_activity_faculty_navi_"
+            android:theme="@style/AppTheme.NoActionBar" />
 
         <meta-data
             android:name="android.support.VERSION"

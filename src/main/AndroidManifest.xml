@@ -39,7 +39,11 @@
         <activity android:name=".ViewDatabase" />
         <activity android:name=".AddToDatabase" />
         <activity android:name=".Project_list" />
-        <activity android:name=".FacultyRegisterActivity"></activity>
+        <activity android:name=".FacultyRegisterActivity" />
+        <activity
+            android:name=".FacultyNavi_Activity"
+            android:label="@string/title_activity_faculty_navi_"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
